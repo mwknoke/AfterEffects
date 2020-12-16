@@ -1,0 +1,22 @@
+On 12/16/20, I attempted to create an arrow from a shape layer! 
+
+First, I created a rectangular shape by selecting "layer", then "new", then "Shape". 
+
+I created two smaller rectangular shapes to be the points of the arrow 
+((Add pictures!))
+
+Then, I added a fill for all of the shapes by accessing the "add" triangle, then selecting "fill" and picking my colors from the top menu bar
+((pics))
+
+Then, I went to that same triangle, and experimented with the "wiggle" feature, because I thought it would be beneficial to add some dyanmic movement to my arrow!
+However, I do not believe that the wiggle feature would be effective in this animation. It did not look great because I had to keep my arrow smaller, in order to fit
+my border alignment, which caused the wiggles to be very compressed and awkward looking. 
+
+Next, I tried the "twist" feature, which is what I ended up using to create my arrow! Once I realized I wanted to use the twist, I started by rounding out my rectangle
+by going to the "content" box and changing the "rounded" slider to 12.0. This made my twist look much more natural! Then, I played around with the size of the rectangle --
+I had to make it a bit bigger to fit the twist. Once I was satisfied with the curvature of my arrow, I used a mask to remove the extra twist from the end and keep it
+nice and compact. I think that it looks great!
+((pics))
+
+The next step that I want to take for this arrow is to create a mask path so that I am able to kind of draw the arrow out as an animation. I think this will look 
+a lot more interesting, and less jarring in the transformation. 
